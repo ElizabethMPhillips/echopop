@@ -21,7 +21,8 @@ except Exception:
     VERBOSE = True
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # DATA ROOT DIRECTORY
-DATA_ROOT = Path("C:/Data/EchopopData/file_all_years_update_20260303/2021")
+#DATA_ROOT = Path("C:/Data/EchopopData/file_all_years_update_20260303/2021")
+DATA_ROOT = Path("C:/Data/EchopopData/echopop_2021")
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # REPORTS SAVE DIRECTORY
 REPORTS_DIR = DATA_ROOT / "output_echopop"
